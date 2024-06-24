@@ -12,3 +12,12 @@ let john = {
 john.__proto__ = soldier;
 
 console.log(john)
+
+
+
+thrthtr
+
+
+erherhreh
+
+erjrejerje
